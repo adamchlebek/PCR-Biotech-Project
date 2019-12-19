@@ -1,0 +1,22 @@
+C:\Users\adamc\source\repos\PCR Biotech Project\PCR Biotech Project\bin\Debug\PCR Biotech Project.exe.config
+C:\Users\adamc\source\repos\PCR Biotech Project\PCR Biotech Project\bin\Debug\PCR Biotech Project.exe
+C:\Users\adamc\source\repos\PCR Biotech Project\PCR Biotech Project\bin\Debug\PCR Biotech Project.pdb
+C:\Users\adamc\source\repos\PCR Biotech Project\PCR Biotech Project\bin\Debug\PCR Biotech Project.xml
+C:\Users\adamc\source\repos\PCR Biotech Project\PCR Biotech Project\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\adamc\source\repos\PCR Biotech Project\PCR Biotech Project\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\adamc\source\repos\PCR Biotech Project\PCR Biotech Project\obj\Debug\PCR Biotech Project.vbprojResolveAssemblyReference.cache
+C:\Users\adamc\source\repos\PCR Biotech Project\PCR Biotech Project\obj\Debug\PCR_Biotech_Project.Resources.resources
+C:\Users\adamc\source\repos\PCR Biotech Project\PCR Biotech Project\obj\Debug\PCR_Biotech_Project.SplashScreen.resources
+C:\Users\adamc\source\repos\PCR Biotech Project\PCR Biotech Project\obj\Debug\PCR Biotech Project.vbproj.GenerateResource.Cache
+C:\Users\adamc\source\repos\PCR Biotech Project\PCR Biotech Project\obj\Debug\PCR Biotech Project.vbproj.CoreCompileInputs.cache
+C:\Users\adamc\source\repos\PCR Biotech Project\PCR Biotech Project\obj\Debug\PCR Biotech Project.exe
+C:\Users\adamc\source\repos\PCR Biotech Project\PCR Biotech Project\obj\Debug\PCR Biotech Project.xml
+C:\Users\adamc\source\repos\PCR Biotech Project\PCR Biotech Project\obj\Debug\PCR Biotech Project.pdb
+C:\Users\adamc\source\repos\PCR Biotech Project\PCR Biotech Project\obj\Debug\PCR_Biotech_Project.MainMenu.resources
+C:\Users\adamc\source\repos\PCR Biotech Project\PCR Biotech Project\obj\Debug\PCR_Biotech_Project.Simulation.resources
+C:\Users\adamc\source\repos\PCR Biotech Project\PCR Biotech Project\obj\Debug\PCR_Biotech_Project.Information.resources
+C:\Users\adamc\source\repos\PCR Biotech Project\PCR Biotech Project\obj\Debug\PCR_Biotech_Project.Calculator.resources
+C:\Users\adamc\source\repos\PCR Biotech Project\PCR Biotech Project\bin\Debug\PCR Biotech Project.exe.manifest
+C:\Users\adamc\source\repos\PCR Biotech Project\PCR Biotech Project\bin\Debug\PCR Biotech Project.application
+C:\Users\adamc\source\repos\PCR Biotech Project\PCR Biotech Project\obj\Debug\PCR Biotech Project.exe.manifest
+C:\Users\adamc\source\repos\PCR Biotech Project\PCR Biotech Project\obj\Debug\PCR Biotech Project.application
